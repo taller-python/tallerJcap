@@ -1,0 +1,9 @@
+0.75
+0.3333333333333333
+Error
+Error en la Operacion
+0.75
+1.0
+Error
+5.0
+1.25
