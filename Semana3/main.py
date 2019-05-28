@@ -25,6 +25,9 @@ class Compuerta():
         '''get_param2'''
         return self.__param2
 
+    def operacion(self):
+        '''operacion'''
+
 class CompuertaOr(Compuerta):
     '''Clase CompuertaOr'''
     def operacion(self):
